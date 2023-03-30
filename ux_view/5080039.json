@@ -1,0 +1,778 @@
+{
+  "_internalId" : 5080039,
+  "associatedObjectType" : "clr_strategy",
+  "classifier" : null,
+  "listColumns" : [ {
+    "_internalId" : 5092642,
+    "listColumn" : {
+      "_internalId" : 5092642,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092642",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "code",
+      "name" : "Investment ID",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092643,
+    "listColumn" : {
+      "_internalId" : 5092643,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092643",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "workProgress",
+      "name" : "Work Progress",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092644,
+    "listColumn" : {
+      "_internalId" : 5092644,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092644",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "workStage",
+      "name" : "Work Stage",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092645,
+    "listColumn" : {
+      "_internalId" : 5092645,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092645",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "scheduleStart",
+      "name" : "*Start",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092646,
+    "listColumn" : {
+      "_internalId" : 5092646,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092646",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "status",
+      "name" : "*Status",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092647,
+    "listColumn" : {
+      "_internalId" : 5092647,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092647",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "progress",
+      "name" : "*Progress",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092648,
+    "listColumn" : {
+      "_internalId" : 5092648,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092648",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "blueprintId",
+      "name" : "Blueprint",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092649,
+    "listColumn" : {
+      "_internalId" : 5092649,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092649",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "z_agileState",
+      "name" : "z_agileState",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092650,
+    "listColumn" : {
+      "_internalId" : 5092650,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092650",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "z_rallyTeam",
+      "name" : "z_rallyTeam",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092651,
+    "listColumn" : {
+      "_internalId" : 5092651,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092651",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "integrationMapping",
+      "name" : "integrationMapping",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092652,
+    "listColumn" : {
+      "_internalId" : 5092652,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092652",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "z_percentComplete",
+      "name" : "z_percentComplete",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092653,
+    "listColumn" : {
+      "_internalId" : 5092653,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092653",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "externalObject",
+      "name" : "externalObject",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092654,
+    "listColumn" : {
+      "_internalId" : 5092654,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092654",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "goal",
+      "name" : "goal",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092655,
+    "listColumn" : {
+      "_internalId" : 5092655,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092655",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "description",
+      "name" : "Description",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092656,
+    "listColumn" : {
+      "_internalId" : 5092656,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092656",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "c_strategy_scope",
+      "name" : "Strategy Scope",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092657,
+    "listColumn" : {
+      "_internalId" : 5092657,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092657",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "c_outcomes_expected",
+      "name" : "Outcomes Expected",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092658,
+    "listColumn" : {
+      "_internalId" : 5092658,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092658",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "associatedParent",
+      "name" : "associatedParent",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092659,
+    "listColumn" : {
+      "_internalId" : 5092659,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092659",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "parentType",
+      "name" : "parentType",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092660,
+    "listColumn" : {
+      "_internalId" : 5092660,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092660",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "v_valueStream",
+      "name" : "v_valueStream",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092661,
+    "listColumn" : {
+      "_internalId" : 5092661,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092661",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : false,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "z_go_live",
+      "name" : "z_go_live",
+      "pinned" : null,
+      "position" : -999,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092663,
+    "listColumn" : {
+      "_internalId" : 5092663,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092663",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "_isFavorite",
+      "name" : "_isFavorite",
+      "pinned" : null,
+      "position" : 1,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : 115
+    }
+  }, {
+    "_internalId" : 5092664,
+    "listColumn" : {
+      "_internalId" : 5092664,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092664",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "name",
+      "name" : "Name",
+      "pinned" : null,
+      "position" : 2,
+      "sortOrder" : "desc",
+      "sortPosition" : 1,
+      "width" : 285
+    }
+  }, {
+    "_internalId" : 5092665,
+    "listColumn" : {
+      "_internalId" : 5092665,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092665",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "c_framework",
+      "name" : "c_framework",
+      "pinned" : null,
+      "position" : 3,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : 185
+    }
+  }, {
+    "_internalId" : 5092666,
+    "listColumn" : {
+      "_internalId" : 5092666,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092666",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "manager",
+      "name" : "Manager",
+      "pinned" : null,
+      "position" : 4,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : null
+    }
+  }, {
+    "_internalId" : 5092667,
+    "listColumn" : {
+      "_internalId" : 5092667,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092667",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "v_uniqueValue",
+      "name" : "v_uniqueValue",
+      "pinned" : null,
+      "position" : 5,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : 389
+    }
+  }, {
+    "_internalId" : 5092668,
+    "listColumn" : {
+      "_internalId" : 5092668,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092668",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "v_resources",
+      "name" : "v_resources",
+      "pinned" : null,
+      "position" : 6,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : 449
+    }
+  }, {
+    "_internalId" : 5092662,
+    "listColumn" : {
+      "_internalId" : 5092662,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns/5092662",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "isActive",
+      "name" : "isActive",
+      "pinned" : null,
+      "position" : 7,
+      "sortOrder" : null,
+      "sortPosition" : null,
+      "width" : 111
+    }
+  } ],
+  "name" : "Overview of Strategic Themes",
+  "picklistContexts" : [ {
+    "_internalId" : 5000017,
+    "pickListContext" : {
+      "_internalId" : 5000017,
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/picklistContexts/5000017",
+      "code" : "custClrStrategys",
+      "instanceId" : null,
+      "isActive" : true,
+      "isPurged" : false,
+      "name" : "clr_strategy",
+      "objectCode" : "clr_strategy",
+      "resourceName" : null,
+      "userId" : null
+    },
+    "picklists" : [ ]
+  } ],
+  "type" : "custClrStrategys",
+  "uiViewBlueprint" : null,
+  "view" : {
+    "_internalId" : 5080039,
+    "_isFavorite" : true,
+    "_links" : {
+      "isShared" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_VIEW_SHARE_TYPE/lookupValues",
+      "mode" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/VIEW_MODE/lookupValues",
+      "owner" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_USER_ACTIVE_NO_SEC/lookupValues"
+    },
+    "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+    "associatedId" : null,
+    "associatedObjectType" : "clr_strategy",
+    "blueprintId" : null,
+    "classifier" : null,
+    "defaultSort" : "name:asc,name:asc,name:asc",
+    "groupSort" : "1_FAVORITE",
+    "hasAccess" : true,
+    "isDefault" : true,
+    "isShared" : {
+      "_type" : "lookup",
+      "displayValue" : "Alle",
+      "id" : "SHARED_EVERYONE"
+    },
+    "isSystem" : false,
+    "lastUpdatedDate" : "2022-11-10T16:07:47",
+    "listColumns" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/listColumns"
+    },
+    "mode" : {
+      "_type" : "lookup",
+      "displayValue" : "Gespeichert",
+      "id" : "SAVED"
+    },
+    "name" : "Overview of Strategic Themes",
+    "owner" : {
+      "_type" : "lookup",
+      "displayValue" : "Arpel, Ian",
+      "id" : "1"
+    },
+    "position" : -1,
+    "sharedGroupName" : null,
+    "sharedPersonName" : null,
+    "sharedWithGroup" : 0,
+    "sharedWithPerson" : 0,
+    "type" : "custClrStrategys",
+    "uiViewBlueprintId" : null,
+    "viewSettings" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings"
+    },
+    "viewShare" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewShare"
+    },
+    "viewTargetId" : null,
+    "visualWidgetConfigs" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/visualWidgetConfigs"
+    }
+  },
+  "viewSettings" : [ {
+    "_internalId" : 5073233,
+    "viewSetting" : {
+      "_internalId" : 5073233,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5073233",
+      "classifier" : null,
+      "layout" : "board",
+      "name" : "colorBy",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "colorBy",
+        "id" : "30"
+      },
+      "value" : "_none"
+    }
+  }, {
+    "_internalId" : 5073234,
+    "viewSetting" : {
+      "_internalId" : 5073234,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5073234",
+      "classifier" : null,
+      "layout" : "board",
+      "name" : "columns",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "columns",
+        "id" : "31"
+      },
+      "value" : "obj_work_status"
+    }
+  }, {
+    "_internalId" : 5073235,
+    "viewSetting" : {
+      "_internalId" : 5073235,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5073235",
+      "classifier" : null,
+      "layout" : "layout",
+      "name" : "current",
+      "settingsMetadataId" : null,
+      "value" : "grid"
+    }
+  }, {
+    "_internalId" : 5073236,
+    "viewSetting" : {
+      "_internalId" : 5073236,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5073236",
+      "classifier" : null,
+      "layout" : "global",
+      "name" : "advFilter",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "advFilter",
+        "id" : "18"
+      },
+      "value" : "{\"recentUsed\":\"[\\\"isActive\\\"]\",\"filterOperator\":\" and \",\"filters\":\"[{\\\"filterOperator\\\":\\\" and \\\",\\\"filters\\\":[{\\\"name\\\":\\\"isActive\\\",\\\"value\\\":{\\\"true\\\":\\\"Yes\\\"},\\\"selectedOperator\\\":{\\\"key\\\":\\\"isEqualTo\\\",\\\"operator\\\":\\\"eq\\\"}}]}]\",\"avoidDataRefresh\":false,\"objectFilterQuery\":\"\",\"filterQuery\":\"(isActive = true)\"}"
+    }
+  }, {
+    "_internalId" : 5073237,
+    "viewSetting" : {
+      "_internalId" : 5073237,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5073237",
+      "classifier" : null,
+      "layout" : "grid",
+      "name" : "wrapText",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "wrapText",
+        "id" : "5007058"
+      },
+      "value" : "true"
+    }
+  }, {
+    "_internalId" : 5077308,
+    "viewSetting" : {
+      "_internalId" : 5077308,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5077308",
+      "classifier" : null,
+      "layout" : "bryntumBoard",
+      "name" : "color",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "color",
+        "id" : "5010127"
+      },
+      "value" : "_none"
+    }
+  }, {
+    "_internalId" : 5077309,
+    "viewSetting" : {
+      "_internalId" : 5077309,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080039/viewSettings/5077309",
+      "classifier" : null,
+      "layout" : "bryntumBoard",
+      "name" : "column",
+      "settingsMetadataId" : {
+        "_type" : "lookup",
+        "displayValue" : "column",
+        "id" : "5010124"
+      },
+      "value" : "workStatus"
+    }
+  } ]
+}

@@ -1,0 +1,331 @@
+{
+  "_internalId" : 5080078,
+  "associatedObjectType" : "odf_hierarchy",
+  "classifier" : "hierarchies",
+  "listColumns" : [ {
+    "_internalId" : 5093628,
+    "listColumn" : {
+      "_internalId" : 5093628,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093628",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : true,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investments____name",
+      "name" : "investments____name",
+      "pinned" : null,
+      "position" : 1,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093624,
+    "listColumn" : {
+      "_internalId" : 5093624,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093624",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "resource",
+      "name" : "resource",
+      "pinned" : null,
+      "position" : 2,
+      "sortOrder" : "asc",
+      "sortPosition" : 1,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093625,
+    "listColumn" : {
+      "_internalId" : 5093625,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093625",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investmentRole",
+      "name" : "investmentRole",
+      "pinned" : null,
+      "position" : 3,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093626,
+    "listColumn" : {
+      "_internalId" : 5093626,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093626",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "bookingStatus",
+      "name" : "bookingStatus",
+      "pinned" : null,
+      "position" : 4,
+      "sortOrder" : null,
+      "sortPosition" : 2,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093627,
+    "listColumn" : {
+      "_internalId" : 5093627,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093627",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "allocation",
+      "name" : "allocation",
+      "pinned" : null,
+      "position" : 5,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093629,
+    "listColumn" : {
+      "_internalId" : 5093629,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093629",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investments____code",
+      "name" : "investments____code",
+      "pinned" : null,
+      "position" : 6,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093630,
+    "listColumn" : {
+      "_internalId" : 5093630,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093630",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investments____investmentType",
+      "name" : "investments____investmentType",
+      "pinned" : null,
+      "position" : 7,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093631,
+    "listColumn" : {
+      "_internalId" : 5093631,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093631",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investments____scheduleStart",
+      "name" : "investments____scheduleStart",
+      "pinned" : null,
+      "position" : 8,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  }, {
+    "_internalId" : 5093632,
+    "listColumn" : {
+      "_internalId" : 5093632,
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns/5093632",
+      "aggregations" : null,
+      "groupType" : null,
+      "isExcluded" : false,
+      "isGrouped" : null,
+      "isSelected" : true,
+      "isVirtual" : null,
+      "layout" : "grid",
+      "metadataURL" : "investments____scheduleFinish",
+      "name" : "investments____scheduleFinish",
+      "pinned" : null,
+      "position" : 9,
+      "sortOrder" : null,
+      "sortPosition" : 0,
+      "width" : 0
+    }
+  } ],
+  "name" : "Staff By Investment",
+  "picklistContexts" : [ {
+    "_internalId" : 5053017,
+    "pickListContext" : {
+      "_internalId" : 5053017,
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/picklistContexts/5053017",
+      "code" : "teams",
+      "instanceId" : null,
+      "isActive" : true,
+      "isPurged" : false,
+      "name" : "team",
+      "objectCode" : "team",
+      "resourceName" : null,
+      "userId" : null
+    },
+    "picklists" : [ ]
+  } ],
+  "type" : "teams",
+  "uiViewBlueprint" : null,
+  "view" : {
+    "_internalId" : 5080078,
+    "_isFavorite" : true,
+    "_links" : {
+      "isShared" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_VIEW_SHARE_TYPE/lookupValues",
+      "mode" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/VIEW_MODE/lookupValues",
+      "owner" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_USER_ACTIVE_NO_SEC/lookupValues"
+    },
+    "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+    "associatedId" : null,
+    "associatedObjectType" : "odf_hierarchy",
+    "blueprintId" : null,
+    "classifier" : "hierarchies",
+    "defaultSort" : "resource:asc",
+    "groupSort" : "1_FAVORITE",
+    "hasAccess" : true,
+    "isDefault" : false,
+    "isShared" : {
+      "_type" : "lookup",
+      "displayValue" : "Privat",
+      "id" : "SHARED_NONE"
+    },
+    "isSystem" : false,
+    "lastUpdatedDate" : "2022-11-11T16:28:08",
+    "listColumns" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/listColumns"
+    },
+    "mode" : {
+      "_type" : "lookup",
+      "displayValue" : "Gespeichert",
+      "id" : "SAVED"
+    },
+    "name" : "Staff By Investment",
+    "owner" : {
+      "_type" : "lookup",
+      "displayValue" : "Arpel, Ian",
+      "id" : "1"
+    },
+    "position" : -1,
+    "sharedGroupName" : null,
+    "sharedPersonName" : null,
+    "sharedWithGroup" : 0,
+    "sharedWithPerson" : 0,
+    "type" : "teams",
+    "uiViewBlueprintId" : null,
+    "viewSettings" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewSettings"
+    },
+    "viewShare" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewShare"
+    },
+    "viewTargetId" : null,
+    "visualWidgetConfigs" : {
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/visualWidgetConfigs"
+    }
+  },
+  "viewSettings" : [ {
+    "_internalId" : 5073481,
+    "viewSetting" : {
+      "_internalId" : 5073481,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewSettings/5073481",
+      "classifier" : "hierarchy",
+      "layout" : "grid",
+      "name" : "tsvDatatype",
+      "settingsMetadataId" : null,
+      "value" : "{\"startPeriod\":{\"displayValue\":\"Start of Current Year\",\"id\":\"p_start_year\"},\"endPeriod\":{\"displayValue\":\"End of Current Year\",\"id\":\"p_end_year\"},\"periodType\":{\"displayValue\":\"Months\",\"id\":\"MONTHLY\",\"isActive\":1},\"totalsType\":\"periods\",\"tsvAttributes\":[]}"
+    }
+  }, {
+    "_internalId" : 5073482,
+    "viewSetting" : {
+      "_internalId" : 5073482,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewSettings/5073482",
+      "classifier" : null,
+      "layout" : "layout",
+      "name" : "current",
+      "settingsMetadataId" : null,
+      "value" : "grid"
+    }
+  }, {
+    "_internalId" : 5073483,
+    "viewSetting" : {
+      "_internalId" : 5073483,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewSettings/5073483",
+      "classifier" : null,
+      "layout" : "global",
+      "name" : "widgetsExpanded",
+      "settingsMetadataId" : null,
+      "value" : "true"
+    }
+  }, {
+    "_internalId" : 5073484,
+    "viewSetting" : {
+      "_internalId" : 5073484,
+      "_links" : {
+        "settingsMetadataId" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/lookups/LOOKUP_UI_SETTINGS_MD/lookupValues"
+      },
+      "_parent" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078",
+      "_self" : "http://clarityppm-demo1.capture.eu/ppm/rest/v1/private/views/5080078/viewSettings/5073484",
+      "classifier" : null,
+      "layout" : "global",
+      "name" : "widgetsUseLayoutFilter",
+      "settingsMetadataId" : null,
+      "value" : "true"
+    }
+  } ]
+}
